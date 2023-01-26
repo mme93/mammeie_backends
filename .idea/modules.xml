@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ImageWorker.iml" filepath="$PROJECT_DIR$/.idea/ImageWorker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mammeie_backends.iml" filepath="$PROJECT_DIR$/.idea/mammeie_backends.iml" />
     </modules>
   </component>
 </project>
